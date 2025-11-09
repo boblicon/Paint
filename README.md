@@ -1,1 +1,1 @@
-graphic editor
+a custom graphic editor
